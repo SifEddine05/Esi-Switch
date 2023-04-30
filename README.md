@@ -29,7 +29,7 @@ Install server-side with npm
     
 ## Feedback
 
-If you have any feedback, please reach out to us at ks_sellami@esi.dz , ka_boukef@esi.dz , kb_hamroune@esi.dz , km_belhadef@esi.dz
+If you have any feedback, please reach out to us at ks_sellami@esi.dz , ka_boukef@esi.dz , kb_hamroune@esi.dz , km_belhadef@esi.dz ,ki_triki@esi.dz , ky_refisse@esi.dz
 
 
 ## 🚀 About Me
