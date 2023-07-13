@@ -11,7 +11,8 @@ The project includes detailed documentation and a guide for installation. During
 
 ## Screenshots
 ![ESi-Switch](https://github.com/SifEddine05/Esi-Switch/assets/77940258/6c665460-6060-4c15-96bf-d0ae8def4069)
-![Uploading Esi-Switch 2 .png…]()
+![Esi-Switch 2 ](https://github.com/SifEddine05/Esi-Switch/assets/77940258/1f291c9e-d336-4cc7-a94c-7725fe226a3f)
+
 
 
 ## Installation
