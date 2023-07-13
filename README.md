@@ -8,6 +8,12 @@ The application must provide features that allow the service team to track the l
 The web application interface will be developed in collaboration with the network service team and will follow Windows standards. The software will have online help available in French, and the help will be context-sensitive and relative to each screen.
 
 The project includes detailed documentation and a guide for installation. During the trial phase, users will receive assistance and training.
+
+## Screenshots
+![ESi-Switch](https://github.com/SifEddine05/Esi-Switch/assets/77940258/6c665460-6060-4c15-96bf-d0ae8def4069)
+![Uploading Esi-Switch 2 .png…]()
+
+
 ## Installation
 
 Install client-side with npm
